@@ -1,0 +1,1 @@
+This project uses python to developed pascal triangle
