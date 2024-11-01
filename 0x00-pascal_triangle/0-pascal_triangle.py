@@ -1,6 +1,12 @@
 #!/usr/bin/python3
+'''
+This modeule use python to construct
+pascal triangle
+'''
+
 
 def pascal_triangle(n):
+    ''' This function generate the pascal triangle '''
     if n <= 0:
         return []
     triangle = []
